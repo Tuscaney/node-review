@@ -33,6 +33,6 @@ A simple Node.js script that extracts emails and cleans up phone numbers from a 
 
 ![Terminal Screenshot](./screenshot/output.png)
 
-<img width="1028" height="536" alt="output" src="https://github.com/user-attachments/assets/0a6df9f8-8e31-49af-b8ee-d7855699ea5d" />
+C:\Users\tuddy\OneDrive\Pictures\Screenshots\output.png
 
 
