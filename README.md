@@ -28,3 +28,8 @@ A simple Node.js script that extracts emails and cleans up phone numbers from a 
 📞 Cleaned Phone Numbers:
   Contact us at info@example.com or support@domain.org.
   Call [phone number] or [phone number].
+
+  ## 📸 Example Output
+
+![Terminal Screenshot](./screenshot.png)
+
