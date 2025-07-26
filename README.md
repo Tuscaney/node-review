@@ -31,6 +31,7 @@ A simple Node.js script that extracts emails and cleans up phone numbers from a 
 
   ## 📸 Example Output
 
-![Terminal Screenshot](./screenshot/output.png)
+![Terminal Screenshot]
+<img width="1028" height="536" alt="output" src="https://github.com/user-attachments/assets/8e15c69c-1da2-4bef-9864-3cd1beae9a1b" />
 
 
