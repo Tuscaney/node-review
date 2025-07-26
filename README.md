@@ -1,5 +1,9 @@
 # 🧼 Text Analyzer & Cleaner
 
+
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)
+![Chalk](https://img.shields.io/badge/Chalk-^5.4.1-blue?logo=npm)
+
 A simple Node.js script that extracts emails and cleans up phone numbers from a messy string using **regular expressions**.
 
 ## 🔧 What It Does
